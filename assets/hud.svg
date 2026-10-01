@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 330" role="img" aria-labelledby="title desc">
+<title id="title">Cyberpunk16 Player HUD</title><desc id="desc">Dark pixel panel showing class, health, armor, level twenty and seventy-five percent XP.</desc>
+<rect width="960" height="330" rx="4" fill="#0d0c14"/><rect x="8" y="8" width="944" height="314" fill="#171421" stroke="#7154d8" stroke-width="4"/>
+<path fill="#30452c" d="M12 12h936v36H12z"/><path fill="#678d3e" d="M20 18h40v8H20zm64 0h32v8H84zm64 0h32v8h-32zm64 0h32v8h-32zm64 0h32v8h-32zm64 0h32v8h-32zm64 0h32v8h-32zm64 0h32v8h-32zm64 0h32v8h-32zm64 0h32v8h-32zm64 0h32v8h-32zm64 0h32v8h-32zm64 0h32v8h-32zm64 0h32v8h-32z"/>
+<text x="480" y="38" text-anchor="middle" fill="#fff" font-family="monospace" font-size="19" font-weight="bold" letter-spacing="3">PLAYER HUD</text>
+<path fill="#c2adff" d="M48 78h28v7H48zm-5 7h12v7H43zm27 0h12v7H70zM58 85h8v20h-8zM51 100h7v8h-7z"/><text x="90" y="104" fill="#c2adff" font-family="monospace" font-size="31" font-weight="bold">CYBERPUNK16</text>
+<text x="48" y="139" fill="#8e87a3" font-family="monospace" font-size="14" letter-spacing="2">CLASS</text>
+<text x="48" y="163" fill="#f0ebfa" font-family="monospace" font-size="17">LAW STUDENT  /  DEVELOPER</text>
+<text x="48" y="210" fill="#c7bddb" font-family="monospace" font-size="14">♥ HP</text><rect x="145" y="193" width="350" height="22" fill="#271823"/><path fill="#f04b73" d="M149 197h17v14h-17zm23 0h17v14h-17zm23 0h17v14h-17zm23 0h17v14h-17zm23 0h17v14h-17zm23 0h17v14h-17zm23 0h17v14h-17zm23 0h17v14h-17zm23 0h17v14h-17zm23 0h17v14h-17zm23 0h17v14h-17zm23 0h17v14h-17zm23 0h17v14h-17zm23 0h17v14h-17zm23 0h17v14h-17z"/>
+<text x="48" y="247" fill="#c7bddb" font-family="monospace" font-size="14">⛨ ARMOR</text><rect x="145" y="230" width="350" height="22" fill="#171c2b"/><path fill="#58d9d0" d="M149 234h30v14h-30zm36 0h30v14h-30zm36 0h30v14h-30zm36 0h30v14h-30zm36 0h30v14h-30zm36 0h30v14h-30zm36 0h30v14h-30zm36 0h30v14h-30zm36 0h30v14h-30zm36 0h30v14h-30z"/>
+<text x="48" y="290" fill="#c7bddb" font-family="monospace" font-size="14">⭐ LEVEL</text><text x="145" y="291" fill="#f8d36b" font-family="monospace" font-size="24" font-weight="bold">20</text>
+<text x="555" y="110" fill="#8e87a3" font-family="monospace" font-size="14" letter-spacing="2">EXPERIENCE</text><text x="555" y="145" fill="#f0ebfa" font-family="monospace" font-size="19">XP TO NEXT LEVEL</text>
+<rect x="555" y="166" width="350" height="30" fill="#10100e" stroke="#5d5445" stroke-width="3"/><path fill="#82c93f" d="M562 173h20v16h-20zm24 0h20v16h-20zm24 0h20v16h-20zm24 0h20v16h-20zm24 0h20v16h-20zm24 0h20v16h-20zm24 0h20v16h-20zm24 0h20v16h-20zm24 0h20v16h-20zm24 0h20v16h-20zm24 0h20v16h-20z"/>
+<text x="555" y="231" fill="#47f0c1" font-family="monospace" font-size="16">75%</text><text x="905" y="231" text-anchor="end" fill="#777185" font-family="monospace" font-size="13">EDITABLE PROFILE FLAVOR</text>
+<path fill="#47f0c1" d="M865 90h12v12h-12zm24 0h12v12h-12zm-24 20h12v12h-12z"/>
+</svg>

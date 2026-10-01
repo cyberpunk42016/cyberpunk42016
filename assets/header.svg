@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 220" role="img" aria-labelledby="title desc">
+  <title id="title">MineGit — Your GitHub. Your world.</title>
+  <desc id="desc">Pixel grass and stone frame a purple neon MineGit wordmark.</desc>
+  <rect width="960" height="220" fill="#0b0b13"/>
+  <path fill="#161322" d="M0 0h960v20H0zM0 200h960v20H0z"/>
+  <path fill="#252136" d="M0 20h20v180H0zM940 20h20v180h-20z"/>
+  <path fill="#35472d" d="M20 20h920v28H20z"/>
+  <path fill="#648c3b" d="M20 20h32v10H20zm64 0h32v10H84zm64 0h32v10h-32zm64 0h32v10h-32zm64 0h32v10h-32zm64 0h32v10h-32zm64 0h32v10h-32zm64 0h32v10h-32zm64 0h32v10h-32zm64 0h32v10h-32zm64 0h32v10h-32zm64 0h32v10h-32zm64 0h32v10h-32zm64 0h32v10h-32zm64 0h32v10h-32z"/>
+  <path fill="#49352d" d="M20 48h920v152H20z"/>
+  <path fill="#604638" d="M20 48h920v8H20zm0 52h120v8H20zm200 24h152v8H220zm280-44h110v8H500zm180 48h260v8H680zM70 176h180v8H70zm460-4h190v8H530zm250-50h130v8H780z"/>
+  <path fill="#201d2c" d="M182 68h596v104H182z"/>
+  <path fill="#7754fa" d="M194 76h572v8H194zm0 88h572v8H194zm-8-80h8v80h-8zm588 0h8v80h-8z"/>
+  <path fill="#47f0c1" d="M356 88h32v8h-32zm-8 8h16v8h-16zm24 0h16v8h-16zm-8 8h8v30h-8zm-8 25h8v8h-8z"/>
+  <text x="480" y="128" text-anchor="middle" fill="#f6f1ff" font-family="monospace" font-size="50" font-weight="900" letter-spacing="3">MINEGIT</text>
+  <text x="480" y="151" text-anchor="middle" fill="#bdadff" font-family="monospace" font-size="15" letter-spacing="4">YOUR GITHUB. YOUR WORLD.</text>
+  <path fill="#47f0c1" d="M112 108h12v12h-12zm724-30h12v12h-12zm-24 72h8v8h-8zM160 152h8v8h-8z"/>
+</svg>
